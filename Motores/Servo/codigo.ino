@@ -9,7 +9,7 @@ void setup() {
   Serial.begin(9600);
  
   // Iniciamos el servo para que empiece a trabajar con el pin 9
-  servoMotor.attach(9);
+  servoMotor.attach(2);
 }
  
 void loop() {
