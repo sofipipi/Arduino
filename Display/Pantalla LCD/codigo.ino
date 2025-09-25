@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 
 //Crear el objeto lcd  dirección  0x3F y 16 columnas x 2 filas
-LiquidCrystal_I2C lcd(0x3F,16,2);  //
+LiquidCrystal_I2C lcd(0x27,16,2);  //
 
 void setup() {
   // Inicializar el LCD
