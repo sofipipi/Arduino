@@ -1,0 +1,2 @@
+Más info mis chicos:
+https://programarfacil.com/blog/arduino-blog/lector-rfid-rc522-con-arduino
