@@ -7,8 +7,8 @@ void setup() {
   Serial.begin(9600);
   
   // Configuración del pin
-  EasyBuzzer.setPin(5);
- 
+  EasyBuzzer.setPin(9);
+  Serial.println("Esta conectado en el pin 9");
   Serial.println("Comienza el sonido");
   
   // Configuración del beep
