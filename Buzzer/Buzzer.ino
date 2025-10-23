@@ -29,3 +29,4 @@ void loop() {
 }
 
 //mas info: https://programarfacil.com/blog/arduino-blog/buzzer-con-arduino-zumbador
+// la resistencia es de 100 ohms
